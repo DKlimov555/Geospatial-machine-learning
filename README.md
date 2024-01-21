@@ -4,7 +4,7 @@ This is a replication and application of Combining satellite imagery and machine
 
 All scripts are put in modifiable Jupyter Notebook (.ipynb)
 
-I've tried very hard to bugfix jmather25's script and getting all functions using outdated modules to run.
+I've tried very hard to bugfix jmathur25's script and getting all functions using outdated modules to run.
 For comprehension (both mine and any future user's), I've also made a ton of comments.
 
 I recommend creating a virtual environment, such as miniconda, before starting.
