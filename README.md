@@ -1,13 +1,13 @@
 # Training Geospatial models
 
-This is a replication and application of Combining satellite imagery and machine learning to predict poverty (Jean et al. 2016). I'm closely following jmathur25's replication guide, found here: https://github.com/jmathur25/predicting-poverty-replication/tree/master
+This is a replication and application of Combining satellite imagery and machine learning to predict poverty (Jean et al. 2016). I'm closely following Jatin Mathur's replication guide, found here: https://github.com/jmathur25/predicting-poverty-replication/tree/master
 
 All scripts are put in modifiable Jupyter Notebook (.ipynb)
 
-I've tried very hard to bugfix the jmather25's script and getting all functions using outdated modules to run.
+I've tried very hard to bugfix jmather25's script and getting all functions using outdated modules to run.
 For comprehension (both mine and any future user's), I've also made a ton of comments.
 
-I recommend creating a virtual environment before starting, such as miniconda.
+I recommend creating a virtual environment, such as miniconda, before starting.
 
 First run:
 
